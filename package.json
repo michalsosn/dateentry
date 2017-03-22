@@ -1,0 +1,16 @@
+{
+  "name": "jquery-dateentry",
+  "version": "2.0.1",
+  "description": "This plugin sets an input field up to accept a date value using a spinner or the keyboard.",
+  "author": "https://github.com/kbwood/dateentry/graphs/contributors",
+  "license": "MIT",
+  "homepage": "http://keith-wood.name/dateEntry.html",
+  "main": "jquery.dateentry.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kbwood/dateentry"
+  }
+}
